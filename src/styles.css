@@ -135,3 +135,15 @@ p {
 }
 }
 
+logo {
+  max-width: 10px;
+}
+
+nav li {
+  display: inline;
+  list-style: none;
+}
+
+nav ul {
+  padding: 0;
+}
